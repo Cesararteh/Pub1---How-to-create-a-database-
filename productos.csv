@@ -1,0 +1,31 @@
+id_producto,nombre,tipo_producto,año_producción,precio_unitario,stock_actual
+1,Producto 1,Pisco,2019,39.97,158
+2,Producto 2,Vino Blanco,2022,102.85,308
+3,Producto 3,Vino Rosé,2016,20.74,50
+4,Producto 4,Pisco,2022,55.23,196
+5,Producto 5,Vino Rosé,2021,67.92,102
+6,Producto 6,Vino Tinto,2020,137.14,203
+7,Producto 7,Vino Tinto,2019,139.42,97
+8,Producto 8,Vino Rosé,2015,149.08,155
+9,Producto 9,Vino Blanco,2020,26.54,136
+10,Producto 10,Vino Rosé,2023,48.49,65
+11,Producto 11,Vino Tinto,2020,43.37,293
+12,Producto 12,Vino Rosé,2021,67.92,408
+13,Producto 13,Vino Blanco,2023,58.35,220
+14,Producto 14,Vino Tinto,2024,40.5,323
+15,Producto 15,Vino Blanco,2017,147.43,342
+16,Producto 16,Vino Blanco,2021,113.6,362
+17,Producto 17,Vino Rosé,2020,92.41,343
+18,Producto 18,Vino Blanco,2018,127.69,105
+19,Producto 19,Vino Tinto,2018,139.99,135
+20,Producto 20,Vino Rosé,2021,115.36,399
+21,Producto 21,Vino Blanco,2015,49.91,314
+22,Producto 22,Vino Blanco,2023,28.3,350
+23,Producto 23,Vino Rosé,2015,134.11,399
+24,Producto 24,Vino Blanco,2024,71.81,59
+25,Producto 25,Vino Tinto,2020,120.85,164
+26,Producto 26,Vino Blanco,2021,111.25,229
+27,Producto 27,Vino Rosé,2024,70.53,427
+28,Producto 28,Vino Blanco,2016,80.41,112
+29,Producto 29,Vino Tinto,2018,113.89,63
+30,Producto 30,Vino Blanco,2024,113.97,150
